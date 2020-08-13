@@ -7,7 +7,7 @@ import javax.swing.*;
 public class App {
 
     public static void main(String[] args) {
-        JFrame principal = new Principal("Convertidor de medidas");
+        JFrame principal = new Principal("Conversor de medidas");
         principal.setVisible(true);
     }
 }
